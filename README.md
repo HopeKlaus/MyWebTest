@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# MyWebTest
+前端项目：电商网站前台项目
+>>>>>>> 4d0bbe177530423544e98d01f69bf4f00527f160
